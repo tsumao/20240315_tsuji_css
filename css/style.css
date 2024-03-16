@@ -41,6 +41,7 @@ a {
     font-size: 0.7rem;
     font-weight: bold;
     color: rgb(16, 16, 180);
+    text-decoration: none;
 }
 
 .main {
